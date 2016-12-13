@@ -4,7 +4,7 @@ LineUp.js: Visual Analysis of Multi-Attribute Rankings [![Build Status](https://
 LineUp is an interactive technique designed to create, visualize and explore rankings of items based on a set of heterogeneous attributes. 
 This is a D3-based re-implementation with limited functionality relative to the original stand-alone LineUp, which you can check out at http://lineup.caleydo.org
 
-Dependencies
+Dependencies this is test from bikram 
 ------------
 
 LineUp.js depends on [D3](http://d3js.org) for rendering and [FontAwesome](http://fontawesome.io/) for icons in the toolbar. Both dependencies are declared as bower dependencies. 
