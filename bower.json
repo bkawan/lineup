@@ -1,0 +1,51 @@
+{
+  "name": "lineupjs",
+  "version": "0.5.4",
+  "homepage": "https://github.com/Caleydo/lineup.js",
+  "authors": [
+    "Caleydo Team <contact@caleydo.org> (https://caleydo.org)",
+    "Samuel Gratzl <samuel-gratzl@gmx.at> (https://sgratzl@github.io)",
+    "Marc Streit <marc@streit.com> (https://marc-streit.com)",
+    "Holger Stitz <kontakt@holgerstitz.de>",
+    "Hendrik Strobelt <hstrobelt@seas.harvard.edu>"
+  ],
+  "description": "LineUp is an interactive technique designed to create, visualize and explore rankings of items based on a set of heterogeneous attributes.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Caleydo/lineup.js.git"
+  },
+  "main": [
+    "dist/LineUpJS.js"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "lineup",
+    "multi-attribute",
+    "ranking",
+    "caleydo"
+  ],
+  "dependencies": {
+    "d3": "~=3.5",
+    "font-awesome": ">=4.2.0"
+  },
+  "license": "BSD-3-Clause",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "index.html",
+    "demo",
+    "src",
+    "tmp",
+    "typings",
+    "typings.json",
+    "tslint.json",
+    "tsconfig.json",
+    "webpack.config.js",
+    "assets",
+    "dist/docs"
+  ]
+}
